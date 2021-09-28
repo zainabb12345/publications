@@ -26,6 +26,6 @@
 - https://xord.com/research/chainlink-an-encyclopedic-study/
 - https://xord.com/research/flash-ecosystem-an-in-depth-explanation/
 
-## Contribution
+## Contributions
 - https://xord.com/research/ace-addresses-and-signatures-with-bitcoin/
 - https://xord.com/research/balancer-v1-balancing-n-dimensions/
