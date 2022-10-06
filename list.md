@@ -14,6 +14,7 @@
 ## Case Studies
 - https://xord.com/publications/case-study-claim-dapp/
 - https://xord.com/publications/case-study-uniswap-uni-tokens-distribution/
+- https://xord.com/research/gas-tokens-analysis-the-future/
 
 # Detailed Publications
 
@@ -21,10 +22,15 @@
 - https://xord.com/research/uniswap-v2-protocol-lets-dive-in/
 - https://xord.com/research/uniswap-v3-power-to-liquidity-providers/
 
-## Others
+## More
 - https://xord.com/research/bitcoin-dawn-of-innovation/
 - https://xord.com/research/chainlink-an-encyclopedic-study/
 - https://xord.com/research/flash-ecosystem-an-in-depth-explanation/
+- https://xord.com/research/zero-knowledge-proofs-a-general-understanding/
+- https://xord.com/research/the-advent-of-starks-with-iops/
+- https://xord.com/research/celestia-turning-modularity-into-reality/
+- https://xord.com/research/merged-finally-it-happened/
+- https://xord.com/research/optimism-bedrock-an-early-guide/
 
 ## Contributions
 - https://xord.com/research/ace-addresses-and-signatures-with-bitcoin/
